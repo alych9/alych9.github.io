@@ -1,6 +1,6 @@
 # About Me
  
-**Hi, I am a PhD student in IDG/McGOVERN INSTITUTE, Tsinghua University. **
+**Hi, I am a PhD student in IDG/McGOVERN INSTITUTE, Tsinghua University.**
 
 # <font color=red>News!</font> 
 * **I became an phD student in Tsinghua University.**
