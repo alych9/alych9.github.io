@@ -49,10 +49,5 @@ As a first-year doctoral student, learning new knowledge in the field is an impo
     <td width="25%">
       <img src="./deinker.png" width="100%">
     </td>
-  </tr>
-</table>
-<!-- # Projects -->
 
-
-# Lifes
 
