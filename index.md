@@ -39,12 +39,11 @@ As a first-year doctoral student, learning new knowledge in the field is an impo
        <p><small><b> Office paper is an important category of paper products accounting for a quarter of the global annual paper consumption. However office waste 
         paper, such a high-quality renewable resource, cannot enter easily into the recycling system, and is completely idle or waste. To solve this, we build a bio-
         deinking system to do environmentally friendly enzymatical deinking. Additionally, to complete the recycling directly in which the waste paper is produced, we 
-        builded a hardware device (Deinker) that can realize automatically paper recycling and deinking in the office.</small></p>
+        builded a hardware device (Deinker) that can realize automatically paper recycling and deinking in the office.
        <a href="https://2021.igem.org/Team:UESTC-China">[Project Wiki]</a>
        <a href="https://2021.igem.org/Team:UESTC-China/Team">[Team Members]</a>
        <a href="https://video.igem.org/w/p/m36RVd4xsAyjiXBrDvopTf?playlistPosition=292&resume=true">[Short Promotion Video]</a>
        <a href="https://video.igem.org/w/p/nZMNP58MNFrhBYosAeH26L?playlistPosition=94&resume=true">[Presentation Video]</a>
-    </td>
     <td width="25%">
       <img src="./deinker.png" width="100%">
     </td>
