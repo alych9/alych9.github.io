@@ -29,6 +29,9 @@
 # Learning Notes 
 As a first-year doctoral student, learning new knowledge in the field is an important event. I record and share my learning notes, meetings and seminar notes in my [Computational Neuroscience Learning Notes](https://energetic-player-d0e.notion.site/Computation-Neuroscience-Learning-e6014d81cdad43e7b20f1d4b36cff4ae).
 
+# Lifes and hobbies
+Although I am a doctoral student, I hope to become a vibrant person. From time to time, I would go out to take photos or be the subject of the shoot. Currently, I am studying diving, fencing, and fitness. Click here to see photos in [Zoey's Club](https://www.notion.so/Colorful-Life-and-Hobbies-3adaeba927344b9891c90acd84e88dbc).
+
 # Experiences
 <table border="2">
   <tr>
