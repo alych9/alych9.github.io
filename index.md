@@ -3,7 +3,7 @@
 **Hi, I am a PhD student in IDG/McGOVERN INSTITUTE, Tsinghua University.**
 
 # Contact Me
-**Email:** allysonchou.china@gmail.com / ying-zho22@mails.tsinghua.edu.cn / 13712485116@163.com 
+**Emails:** allysonchou.china@gmail.com / ying-zho22@mails.tsinghua.edu.cn / 13712485116@163.com 
 
 # <font color=red>News!</font> 
 * **I dived into computational neuroscience field in 2023.**
@@ -12,12 +12,12 @@
 # Education
 
 ### - Ph.D in Computational Neuroscience
-#### _2022/09-2027/06 (expected)_
   * **Tsinghua University, Beijing**
+  * _2022/09-2027/06 (expected)_
 
 ### - Bachelor in Biotechnology and Computer Science (The second degree)
-#### _2018/09-2022/06_
   * **University of Electronic Science and Technology of China, Chengdu**
+  * _2018/09-2022/06_
  
 # Interests
 
