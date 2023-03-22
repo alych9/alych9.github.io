@@ -2,10 +2,13 @@
 
 **Hi, I am a PhD student in IDG/McGOVERN INSTITUTE, Tsinghua University.** Contact me through ying-zho22@mails.tsinghua.edu.cn
 
+* * *
 
 # <font color=red>News!</font> 
 * **I dived into computational neuroscience field in 2023.**
 * **I became an phD student in 2022.**
+
+* * *
 
 # Education
 
@@ -16,7 +19,9 @@
 ### - Bachelor in Biotechnology and Computer Science (The second degree)
   * **University of Electronic Science and Technology of China, Chengdu**
   * _2018/09-2022/06_
- 
+
+* * *
+
 # Interests
 
 **My research interests include**
@@ -25,12 +30,17 @@
 * **Dynamic Neural Network**: Mechanisms of dynamic brain network and how cognition emerges in dynamic network.
 * **NeuroAI Research**: Study the brain to learn how to build artificial general intelligence.
 
+* * *
 
 # Learning Notes 
 As a first-year doctoral student, learning new knowledge in the field is an important event. I record and share my learning notes, meetings and seminar notes in my [Computational Neuroscience Learning Notes](https://energetic-player-d0e.notion.site/Computation-Neuroscience-Learning-e6014d81cdad43e7b20f1d4b36cff4ae).
 
+* * *
+
 # Lifes and hobbies
 Although I am a doctoral student, I hope to become a vibrant person. From time to time, I would go out to take photos or be the subject of the shoot. Currently, I am studying diving, fencing, and fitness. Click here to see photos in [Zoey's Club](https://www.notion.so/Colorful-Life-and-Hobbies-3adaeba927344b9891c90acd84e88dbc).
+
+* * *
 
 # Experiences
 <table border="2">
