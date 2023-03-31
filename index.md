@@ -26,7 +26,6 @@
 
 **My research interests include**
 
-* **Internal Brain State**: How fundamental cognitive brain states are encoded in the brain and how these internal states interactive with sensory inputs to elicit specific behaviors.
 * **Dynamic Neural Network**: Mechanisms of dynamic brain network and how cognition emerges in dynamic network.
 * **NeuroAI Research**: Study the brain to learn how to build artificial general intelligence.
 
