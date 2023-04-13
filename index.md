@@ -5,7 +5,7 @@
 * * *
 
 # 📰 <font color=red>News!</font>  
-* **I dived into computational neuroscience field in 2023.**
+* **I dived into computational neuroscience field in 2023.** Click here to visit our [lab website](https://jiaxx.github.io/).
 * **I became an phD student in 2022.**
 
 * * *
@@ -26,8 +26,9 @@
 
 **My research interests include**
 
-* **Dynamic Neural Network**: Mechanisms of dynamic brain network and how cognition emerges in dynamic network.
-* **NeuroAI Research**: Study the brain to learn how to build artificial general intelligence.
+* **Dynamic Neural Network**:  My research topic is about dynamical neural network which aims to understand how information is propagated temporally and spatially in the brain. Are there any pattern of information flow? If so, what these patterns mean and how it correlation to the dynamical system theory? We hope to used dynamical neural network analysis as a tool to understand some basic problems of neuroscience including: Are efficient coding theoy truly exists in the brain? How cognition occurs in the dynamical neural network?
+
+* **NeuroAI Research**: Now, I am curious about the question of what's the difference between biological intelligence and artifical intelligence. How to improve the development of artificial general intelligence by studying the true brain? 
 
 * * *
 
