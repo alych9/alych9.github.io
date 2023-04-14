@@ -26,7 +26,7 @@
 
 **My research interests include**
 
-* **Dynamic Neural Network**:  My research topic is about dynamical neural network which aims to understand how information is propagated temporally and spatially in the brain. Are there any patterns of information flow? If so, what these patterns mean and how it correlation to the dynamical system theory? We hope to use dynamical neural network analysis as a tool to understand some basic problems of neuroscience including: Are efficient coding theory exists in the brain? How cognition occurs from the dynamical neural network?
+* **Dynamic Neural Network**:  My research topic is about dynamical neural network which aims to understand how information is propagated temporally and spatially in the brain. Are there any patterns of information flow? If so, what these patterns mean and how it correlation to the dynamical system theory? We hope to use dynamical neural network analysis as a tool to understand some basic problems of neuroscience.
 
 * **NeuroAI Research**: Now, I am curious about the question about what's the difference between biological intelligence and artifical intelligence. How to improve the development of artificial general intelligence by studying the biological brain? 
 
