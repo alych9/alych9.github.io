@@ -33,7 +33,7 @@
 * * *
 
 # 💯 Learning Notes 
-As a first-year doctoral student, learning new knowledge in the research field is an important event. I record and share my learning notes, meetings and seminar notes in my [Computational Neuroscience Learning Notes](https://energetic-player-d0e.notion.site/Computation-Neuroscience-Learning-e6014d81cdad43e7b20f1d4b36cff4ae).
+As a first-year doctoral student, learning new knowledge is an important event. I record and share my learning notes, meetings and seminar notes in [Computational Neuroscience Learning Notes](https://energetic-player-d0e.notion.site/Computation-Neuroscience-Learning-e6014d81cdad43e7b20f1d4b36cff4ae). Welcome to make comments.
 
 * * *
 
