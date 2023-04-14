@@ -38,7 +38,7 @@ As a first-year doctoral student, learning new knowledge is an important event. 
 * * *
 
 # 💗 Lifes and hobbies
-Although I am a doctoral student, I hope to become a vibrant person. From time to time, I would go out to take photos. Currently, I am studying diving. Click [Zoey's Club](https://www.notion.so/Colorful-Life-and-Hobbies-3adaeba927344b9891c90acd84e88dbc) to see photos.
+I hope to be a vibrant person. From time to time, I would go out to take photos. Currently, I am studying diving. Click [Zoey's Club](https://www.notion.so/Colorful-Life-and-Hobbies-3adaeba927344b9891c90acd84e88dbc) to see photos.
 
 
 * * *
