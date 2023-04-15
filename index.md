@@ -6,7 +6,7 @@
 
 # 📰 <font color=red>News!</font>  
 * **I dived into computational neuroscience field in 2023.** Click here to visit our [lab website](https://jiaxx.github.io/).
-* **I became an phD student in 2022.**
+* **I became a phD student in 2022.**
 
 * * *
 
