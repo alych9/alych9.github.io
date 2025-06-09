@@ -43,20 +43,13 @@ I hope to be a vibrant person. From time to time, I would go out to take photos.
 
 * * *
 
-# 🌼 Experiences
+# 🌼 Publications
 <table border="2">
   <tr>
-    <td width="75%">
-       <p><b>Deink the dark</b></p>
-       <p><small><b>Team leader of UESTC-2021-iGEM Team</b> </small></p>
-       <p><small><b> Office paper is an important category of paper products accounting for a quarter of the global annual paper consumption. However office waste 
-        paper, such a high-quality renewable resource, cannot enter easily into the recycling system, and is completely idle or waste. To solve this, we build a bio-
-        deinking system to do environmentally friendly enzymatical deinking. Additionally, to complete the recycling directly in which the waste paper is produced, we 
-        builded a hardware device (Deinker) that can realize automatically paper recycling and deinking in the office or at home.
-       <a href="https://2021.igem.org/Team:UESTC-China">[Project Wiki]</a>
-       <a href="https://2021.igem.org/Team:UESTC-China/Team">[Team Members]</a>
-       <a href="https://video.igem.org/w/p/m36RVd4xsAyjiXBrDvopTf?playlistPosition=292&resume=true">[Short Promotion Video]</a>
-       <a href="https://video.igem.org/w/p/nZMNP58MNFrhBYosAeH26L?playlistPosition=94&resume=true">[Presentation Video]</a>
-    <td width="25%">
-      <img src="./deinker.png" width="100%">
+    <td width="60%">
+       <p>Wang Yuping*, Xinli Song*, Xiangmao Chen*, <b>Ying Zhou*</b>, Jihao Ma*, Fang Zhang*, Liqiang Wei*, Kun Li# et al. "Integrating reproductive states and social cues in the control of sociosexual behaviors." Cell (2025).</p>
+       <p><small> Female sociosexual behaviors, essential for survival and reproduction, are modulated by ovarian hormones and triggered in the context of appropriate social cues. Here, we identify primary estrous-sensitive Cacna1h-expressing medial prefrontal cortex (mPFCCacna1h+) neurons that integrate hormonal states with recognition of potential mates to orchestrate these complex cognitive behaviors. Bidirectional manipulation of mPFCCacna1h+ neurons shifts opposite-sex-directed social behaviors between estrus and diestrus females via anterior hypothalamic outputs. In males, these neurons serve opposite functions compared with estrus females. Miniscope imaging reveals mixed representation of self-estrous states and social target sex in distinct mPFCCacna1h+ subpopulations, with biased encoding of opposite-sex cues in estrus females and males. Mechanistically, ovarian-hormone-induced Cacna1h upregulation enhances T-type rebound excitation after oxytocin inhibition, driving estrus-specific activity changes and the sexually dimorphic function of mPFCCacna1h+ neurons. These findings uncover a prefrontal circuit that integrates internal hormonal states and target-sex information to exert sexually bivalent top-down control over adaptive social behaviors.
+       <a href="https://www.cell.com/cell/abstract/S0092-8674(25)00505-7">[Paper Link]</a>
+    <td width="40%">
+      <img src="./fx1_lrg.jpg" width="100%">
     </td>
