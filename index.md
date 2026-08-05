@@ -13,7 +13,7 @@
 
 # 👩‍🎓 Experiences 
 
-### - AGI Intern in Pre-training Algorithm & Evaluation Research Group
+### - AGI Intern in Pre-training Algorithm & Evaluation Group
   * **DeepSeek, Beijing**
   * _2025/08-2026/08_
 
