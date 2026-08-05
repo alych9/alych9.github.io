@@ -5,18 +5,27 @@
 * * *
 
 # 📰 <font color=red>News!</font>  
+* **I focus on understanding mechanisms of continual learning in the brain and improving AI algorithms.** 
 * **I dived into computational neuroscience field in 2023.** Click here to visit our [lab website](https://jiaxx.github.io/).
 * **I became a phD student in 2022.**
 
 * * *
 
-# 👩‍🎓 Education 
+# 👩‍🎓 Experiences 
+
+### - AGI Intern in Pre-training Algorithm & Evaluation Research Group
+  * **DeepSeek, Beijing**
+  * _2025/08-2026/08_
 
 ### - Ph.D in Computational Neuroscience
   * **Tsinghua University, Beijing**
-  * _2022/09-2027/06 (expected)_
+  * _2022/09-Now
+  
+### - Bachelor in Biotechnology
+  * **University of Electronic Science and Technology of China, Chengdu**
+  * _2018/09-2022/06_
 
-### - Bachelor in Biotechnology and Computer Science (The second degree)
+### - Bachelor in Computer Science (The second degree)
   * **University of Electronic Science and Technology of China, Chengdu**
   * _2018/09-2022/06_
 
@@ -26,9 +35,9 @@
 
 **My research interests include**
 
-* **Dynamic Neural Network**:  My research topic is about dynamical neural network which aims to understand how information is propagated temporally and spatially in the brain. Are there any patterns of information flow? If so, what these patterns mean and how it correlation to the dynamical system theory? We hope to use dynamical neural network analysis as a tool to understand some basic problems of neuroscience.
+* **Continual Learning**: My research aims to understand how the brain achieves continual learning. I approach this question from two complementary perspectives:(1) Neural representations. (2) Dynamic neural networks at single-neuron resolution. More specifically, I seek to answer the following questions: How are neural representations reshaped to incorporate novel stimuli (Continual Learning)? How does the brain leverage prior experience to rapidly learn new information (Generalization)? How can new information be integrated without disrupting existing memories (Memory Stability)?
 
-* **NeuroAI Research**: Now, I am curious about the question about what's the difference between biological intelligence and artifical intelligence. How to improve the development of artificial general intelligence by studying the biological brain? 
+* **NeuroAI Research**: I am curious about the question about what's the difference between biological intelligence and artifical intelligence. How to improve the development of artificial general intelligence by studying the biological brain? My goal is to understand why the brain's architecture is inherently well suited for streaming data, why continual learning is not an additional problem that the brain needs to solve, and how continual learning emerges as a natural capability of its computational architecture.
 
 * * *
 
@@ -44,6 +53,16 @@ I hope to be a vibrant person. From time to time, I would go out to take photos.
 * * *
 
 # 🌼 Publications
+<table border="2">
+  <tr>
+    <td width="60%">
+       <p>Deepseek-AI et al. "Deepseek-v4: Towards highly efficient million-token context intelligence." arXiv (2026).</p>
+       <p><small> We present a preview version of DeepSeek-V4 series, including two strong Mixture-of-Experts (MoE) language models -- DeepSeek-V4-Pro with 1.6T parameters (49B activated) and DeepSeek-V4-Flash with 284B parameters (13B activated) -- both supporting a context length of one million tokens. DeepSeek-V4 series incorporate several key upgrades in architecture and optimization: (1) a hybrid attention architecture that combines Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA) to improve long-context efficiency; (2) Manifold-Constrained Hyper-Connections (mHC) that enhance conventional residual connections; (3) and the Muon optimizer for faster convergence and greater training stability. We pre-train both models on more than 32T diverse and high-quality tokens, followed by a comprehensive post-training pipeline that unlocks and further enhances their capabilities. DeepSeek-V4-Pro-Max, the maximum reasoning effort mode of DeepSeek-V4-Pro, redefines the state-of-the-art for open models, outperforming its predecessors in core tasks. Meanwhile, DeepSeek-V4 series are highly efficient in long-context scenarios. In the one-million-token context setting, DeepSeek-V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared with DeepSeek-V3.2. This enables us to routinely support one-million-token contexts, thereby making long-horizon tasks and further test-time scaling more feasible. 
+       <a href="https://arxiv.org/abs/2606.19348">[Technical Report Link]</a>
+    <td width="40%">
+      <img src="./fx1_lrg.jpg" width="100%">
+    </td>
+
 <table border="2">
   <tr>
     <td width="60%">
