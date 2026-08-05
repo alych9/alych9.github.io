@@ -19,7 +19,7 @@
 
 ### - Ph.D in Computational Neuroscience
   * **Tsinghua University, Beijing**
-  * _2022/09-Now
+  * _2022/09-Now_
   
 ### - Bachelor in Biotechnology
   * **University of Electronic Science and Technology of China, Chengdu**
