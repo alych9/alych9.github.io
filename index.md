@@ -6,8 +6,8 @@
 
 # 📰 <font color=red>News!</font>  
 * **I focus on understanding mechanisms of continual learning in the brain and improving AI algorithms.** 
-* **I dived into computational neuroscience field in 2023.** Click here to visit our [lab website](https://jiaxx.github.io/).
-* **I became a phD student in 2022.**
+* **I dived into the computational neuroscience field in 2023.** Click here to visit our [lab website](https://jiaxx.github.io/).
+* **I became a PhD student in 2022.**
 
 * * *
 
@@ -15,7 +15,7 @@
 
 ### - AGI Intern in Pre-training Algorithm & Evaluation Group
   * **DeepSeek, Beijing**
-  * _2025/08-2026/08_
+  * _2025/08-Now_
 
 ### - Ph.D in Computational Neuroscience
   * **Tsinghua University, Beijing**
