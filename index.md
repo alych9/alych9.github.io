@@ -56,7 +56,7 @@ I hope to be a vibrant person. From time to time, I would go out to take photos.
 <table border="2">
   <tr>
     <td width="60%">
-       <p><b>Ying Zhou*</b>, Wu Yuhan, Jia Xiaoxuan# et al. "Beyond Retrieval: Testing Functional Memory and Memory Updating in Long-Context LLMs." (2026).</p>
+       <p><b>Ying Zhou*</b> et al. "Beyond Retrieval: Testing Functional Memory and Memory Updating in Long-Context LLMs." (2026).</p>
        <p><small> As context lengths of LLMs continue to grow, existing benchmarks remain retrieval-centric — testing whether models can locate and reproduce surface-level facts. We argue that the most valuable form of memory is functional memory: the ability to abstract from observations into underlying rules, compose distributed evidence, and revise beliefs when new information contradicts prior observations. We introduce Beyond Retrieval Bench, a procedurally generated benchmark spanning three complementary capabilities — Memory Retention, Memory Composition, and Memory Revision — across four symbolic domains with deterministic answer verification. Empirical evaluation reveals that even state-of-the-art long-context LLMs struggle with multi-stage composition and especially rule revision, highlighting a critical gap between current capabilities and true executable memory. 
        <a href="https://alych9.github.io/BRB/">[Benchmark Website]</a>
     <td width="40%">
