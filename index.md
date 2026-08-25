@@ -15,7 +15,7 @@
 
 ### - AGI Intern in Pre-training Algorithm & Evaluation Group
   * **DeepSeek, Beijing**
-  * _2025/08-Now_
+  * _2025/10-Now_
 
 ### - Ph.D in Computational Neuroscience
   * **Tsinghua University, Beijing**
