@@ -13,13 +13,13 @@
 
 # 👩‍🎓 Experiences 
 
-### - AGI Intern in Pre-training Algorithm & Evaluation Group
-  * **DeepSeek, Beijing**
-  * _2025/10-Now_
-
 ### - Ph.D in Computational Neuroscience
   * **Tsinghua University, Beijing**
   * _2022/09-Now_
+
+### - AGI Intern in Pre-training Algorithm & Evaluation Group
+  * **DeepSeek, Beijing**
+  * _2025/10-2026/08_
   
 ### - Bachelor in Biotechnology
   * **University of Electronic Science and Technology of China, Chengdu**
